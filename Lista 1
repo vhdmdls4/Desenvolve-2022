@@ -1,0 +1,46 @@
+#Disciplina de Ambientes de computação - Universidade Federal de Minas Gerais
+
+#Exercícios práticos - Sintaxe Básica
+
+##1.
+linguagem= 'python'
+print(linguagem)
+
+##2.
+
+a=1500
+b=335
+print(a+b)
+print(a*b)
+print(a-b)
+
+##3.
+a='Marrie'
+b='Currie'
+c='!!!'
+
+print(a+' '+b+c)
+
+##4.
+print(2+3==5)
+
+##6. 
+pi=3.1415 #Valor do número pi
+print(pi)
+
+##7.
+pi=3.1415 #Valor do número pi
+print(pi) #Com um "tab" antes do print
+print(pi)
+
+##Indentação errada, não sei se é porque no meu já está configurado pra usar o utf-8, mas se eu fizer um comando com if usando "tab" ele funciona direitinho olha só:
+
+a='indentação'
+b='errada'
+
+c=4
+d=5
+
+if c+d==9:
+	print(a+' '+b)
+#Deu certo assim
